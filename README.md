@@ -28,11 +28,10 @@ Eine interaktive Geburtstagsgeschenk-App entwickelt mit JavaScript und React. Di
 
 Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
 
-## 👤 Autor
+## 🧑‍💻 Autor
 
-**Roli Spichtig**
-
-- Webseite: [https://rsfunkyweb.azurewebsites.net/]
+- **Roli Spichtig**
+- Kontakt: [https://rsfunkyweb.azurewebsites.net/]
 ---
 
 💌 Wenn dir das Projekt gefällt, hinterlasse gerne einen ⭐ auf GitHub!
