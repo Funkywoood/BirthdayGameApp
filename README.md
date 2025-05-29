@@ -2,8 +2,8 @@
 
 Eine interaktive Geburtstagsgeschenk-App entwickelt mit JavaScript und React. Die App führt den Benutzer durch eine unterhaltsame Sequenz:
 
-1. **Gratulationsseite** – Eine herzliche Begrüssung zum Geburtstag.
-2. **Ballon-Zerplatzen-Spiel** – Ein kleines Spiel, bei dem der Benutzer Ballons zerplatzen lässt.
+1. **Gratulationsseite** – Nach zwei lustigen "Happy Birthday Videos" kommt eine herzliche Gratulation zum Geburtstag.
+2. **Ballon-Zerplatzen-Spiel** – Ein kleines Spiel, bei dem der Benutzer Ballons zerplatzen lässt. Bei Erreichen der Punktzahl wird der User zum Geschenk weitergeleitet.
 3. **Geschenkpräsentation** – Die Enthüllung des eigentlichen Geschenks.
 
 ## 🚀 Funktionen
@@ -15,7 +15,7 @@ Eine interaktive Geburtstagsgeschenk-App entwickelt mit JavaScript und React. Di
 ## 🛠️ Technologien
 
 - **Frontend**: React, JavaScript, HTML, CSS
-- **Projektstruktur**: Enthält eine `BalloonGame.sln`-Datei, was auf eine Integration mit .NET oder Visual Studio hinweist.
+- **Projektstruktur**: Enthält eine `BalloonGame.sln`-Datei, Integration mit .NET in Visual Studio.
 - 
 
 ## 📁 Projektstruktur
